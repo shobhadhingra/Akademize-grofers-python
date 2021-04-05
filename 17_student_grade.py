@@ -13,5 +13,5 @@ print("Marks3    :"+ str(marks_3))
 print("Total:    :" + str(total))
 print("percentage: :" + str(avg))
 
-if marks_1 > THRESHOLD and marks_2 > THRESHOLD and marks_3 > THRESHOLD
-status ="passed"
+if marks_1 > THRESHOLD and marks_2 > THRESHOLD and marks_3 > THRESHOLD:
+    status ="passed"
