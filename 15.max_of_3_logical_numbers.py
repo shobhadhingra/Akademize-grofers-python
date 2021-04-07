@@ -1,6 +1,6 @@
 a= int(input("Enter a: "))
 b= int(input("Enter b: "))
-b= int(input("Enter b: "))
+c= int(input("Enter c: "))
 
 if a > b and b > c:
     print(f"Max = {a}")
