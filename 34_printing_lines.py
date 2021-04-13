@@ -1,6 +1,6 @@
 def print_line(n):
     for i in range(n):
-        print("_ ", end="")
+        print("_", end="")
     print()
 
 
