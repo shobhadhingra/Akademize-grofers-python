@@ -1,6 +1,11 @@
-def print_line():
-    for i in range(10):
+def print_line(n):
+    for i in range(n):
         print("_ ", end="")
     print()
 
-print("/nthe end")
+
+def main():
+    for i in range(10):
+        print_line(i)
+
+main()

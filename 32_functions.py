@@ -8,10 +8,10 @@ def main():
         print("I am main")
         foo()
         bar()
-        print("end of main")
+        print("end")
+      
 
- 
-    print("hello function")
-    main()
-    print("Bye Function")
+print("Hello")
+main()
+print("bye")
 

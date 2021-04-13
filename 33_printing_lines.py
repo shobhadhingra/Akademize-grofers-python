@@ -3,7 +3,8 @@ def print_line():
         print("_ ", end="")
     print()
 
-print("/nthe end")
+for i in range(10):
+    print_line()
 
 
 
