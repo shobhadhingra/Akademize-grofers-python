@@ -5,7 +5,7 @@ def print_line(n):
 
 
 def main():
-    for i in range(10):
-        print_line(i)
+    for i in range(5):
+        print_line(i+1)
 
 main()
